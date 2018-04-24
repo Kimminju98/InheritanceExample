@@ -7,7 +7,8 @@ public class Person {
 		name = "No name yet";
 	}
 	public Person(String initialName)    { 
-		name = initialName;    }
+		name = initialName;    
+	}
 
 	public void setName(String newName) {
 		name = newName;    
